@@ -20,7 +20,7 @@ type(is_married)
 type(is_true)
 type(is_light_on)
 len(first_name)
-print("First Name is " + len(first_name) + "characters long, while Last Name is " + len(last_name) + " long")
+print("First Name is ", len(first_name),"characters long, while Last Name is ",len(last_name), " long")
 num_one, num_two = 5,4
 total = num_one + num_two
 diff = num_one - num_two
